@@ -1,0 +1,9 @@
+2024-06-21 14:15:31,001 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-06-21 14:15:31,002 - INFO - logging in using static token
+2024-06-21 14:15:31,055 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2024-06-21 14:15:31,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-21 14:15:31,979 - INFO - Shard ID None has connected to Gateway (Session ID: d686881b6ce204342e8b1c4404040373).
+2024-06-21 14:15:34,117 - INFO - Bot is ready. Logged in as Sagi's BOT#9904
